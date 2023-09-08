@@ -1,6 +1,6 @@
 # Episode 1: Why Programming in k8s?
 
-7 September 2023
+Date: TO BE DEFINED
 
 # Headlines
 
