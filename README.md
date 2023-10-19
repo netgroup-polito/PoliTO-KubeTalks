@@ -5,5 +5,5 @@ These sessions provide a platform for lively discussions, insightful presentatio
 Whether you're a beginner looking to grasp the fundamentals or a seasoned pro seeking the latest industry insights, PoliTO-KubeTalks offers a welcoming environment for all levels of expertise.
 Join us as we explore the ever-evolving landscape of Kubernetes and foster a community of continuous learning and collaboration.
 
-- Episode #1: Why Programming in K8s?
+- Episode #1: The journay to Kubernets
   - [Show notes](/episodes/001)
