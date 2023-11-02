@@ -8,4 +8,4 @@ Join us as we explore the ever-evolving landscape of Kubernetes and foster a com
 - Episode #1: Virtualization Concepts
   - [Show notes](/episodes/001)
 - Episode #2: The journay to Kubernets
-  - [Show notes](/episodes/001)
+  - [Show notes](/episodes/002)
