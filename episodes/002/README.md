@@ -14,5 +14,8 @@ Date: 02 November 2023
 # A brief intrduction to Kubernetes
 
 - [What is Kubernetes](https://kubernetes.io/docs/concepts/overview/)
-- [Why Do We Use Kubernetes, Anyway?](https://betterprogramming.pub/why-do-we-use-kubernetes-anyway-644544082f43)
-- [Kubernetes in the wild report 2023](https://www.dynatrace.com/news/blog/kubernetes-in-the-wild-2023/)
+- [Kubernetes Cluster Architecture](https://kubernetes.io/docs/concepts/architecture/)
+- [kind](https://kind.sigs.k8s.io/)
+- [minikube](https://minikube.sigs.k8s.io/docs/start/)
+- [k3s](https://k3s.io/)
+- [microk8s](https://microk8s.io/)
