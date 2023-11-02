@@ -1,4 +1,4 @@
-# Episode 1: The journay to Kubernets
+# Episode 2: The journay to Kubernets
 
 Date: 02 November 2023
 
