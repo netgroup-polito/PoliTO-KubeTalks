@@ -9,5 +9,5 @@ Join us as we explore the ever-evolving landscape of Kubernetes and foster a com
   - [Show notes](/episodes/001)
 - Episode #2: The journay to Kubernets
   - [Show notes](/episodes/002)
-    Episode #3: What are Kubernetes Services?
+- Episode #3: What are Kubernetes Services?
   - [Show notes](/episodes/003)
