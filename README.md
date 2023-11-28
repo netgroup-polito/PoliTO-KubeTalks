@@ -11,3 +11,5 @@ Join us as we explore the ever-evolving landscape of Kubernetes and foster a com
   - [Show notes](/episodes/002)
 - Episode #3: What are Kubernetes Services?
   - [Show notes](/episodes/003)
+- Episode #3: Kubernetes Ingress
+  - [Show notes](/episodes/004/)
