@@ -1,4 +1,4 @@
-# Episode 2: What are Kubernetes Services?
+# Episode 3: What are Kubernetes Services?
 
 Date: 16 November 2023
 
